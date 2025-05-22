@@ -1,7 +1,7 @@
 # SwiftUI Projects
 
 ### BikeTrackr
-Built using SwiftUI and MVVM, this is a bicycle maintenance tracker where you can log repairs, new parts, and other maintenance that was done on your bike. The app utilizes SwiftData for data storage. Async/Await is also utilized to avoid blocking the main thread on more expensive operations such as fetching, removing, and saving data. Strava integration to follow!
+Built using SwiftUI and MVVM, this is a bicycle maintenance tracker where you can log repairs, new parts, and other maintenance that was done on your bike. The app utilizes SwiftData for data storage. Async/Await is also utilized to avoid blocking the main thread on more expensive operations such as fetching, removing, and saving data. Invoice scanning to create service records and Strava integration to follow!
 <p float="left">
   <img src="https://github.com/user-attachments/assets/daea251e-575e-4524-9289-6bb8bca452cd" width="295" height="640"/>
   <img src="https://github.com/user-attachments/assets/cccfc51a-8713-46d8-be1f-2faea3b7a9b3" width="295" height="640"/>
