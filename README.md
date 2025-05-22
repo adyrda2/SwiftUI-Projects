@@ -1,7 +1,4 @@
-# iOS_portfolio
-
-Hi, I'm Angela!
-I am an iOS developer with over 6.5 years of professional experience writing native apps in Swift. I have a passion for writing clean and maintainable code and creating designs that are elegant and intuitive. Here are some of my personal projects that were built using SwiftUI.
+# SwiftUI Projects
 
 ### BikeTrackr
 Built using SwiftUI and MVVM, this is a bicycle maintenance tracker where you can log repairs, new parts, and other maintenance that was done on your bike. The app utilizes SwiftData for data storage. Async/Await is also utilized to avoid blocking the main thread on more expensive operations such as fetching, removing, and saving data. Strava integration to follow!
