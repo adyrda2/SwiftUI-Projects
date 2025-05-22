@@ -8,7 +8,10 @@ I am an iOS developer with over 6.5 years of professional experience writing nat
 Built using SwiftUI and MVVM, this is a bicycle maintenance tracker where you can log repairs, new parts, and other maintenance that was done on your bike. The app utilizes SwiftData for data storage. Async/Await is also utilized to avoid blocking the main thread on more expensive operations such as fetching, removing, and saving data. Strava integration to follow!
 <p float="left">
   <img src="https://github.com/user-attachments/assets/aeaf3bf7-7a31-4c47-8999-de3d84ff825f" width="295" height="640"/>
-  <img src="https://github.com/user-attachments/assets/7f145d14-c85e-42b7-9ae0-3ba1426edf24" width="295" height="640"/>
+  <img src="https://github.com/user-attachments/assets/cccfc51a-8713-46d8-be1f-2faea3b7a9b3" width="295" height="640"/>
+  <img src="https://github.com/user-attachments/assets/5cd024b5-da00-4e8c-a26b-c892bb450642" width="295" height="640"/>
+  <img src="https://github.com/user-attachments/assets/ef7a10a1-775d-44e4-a971-4a45321ecfba" width="295" height="640"/>
+  <img src="https://github.com/user-attachments/assets/840dbe2e-3114-4b52-bae3-21e30ff3878d" width="295" height="640"/>
 </p>
 
 ### Local Grounds
