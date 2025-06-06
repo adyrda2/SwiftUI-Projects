@@ -12,7 +12,10 @@ Built using SwiftUI and MVVM, this is a bicycle maintenance tracker where you ca
 
 ### Local Grounds
 
-Find coffee shops in your area. Pan around to different areas of the map and find coffee shops there too. The app is flexible enough to query for anything, but I chose coffee shops for this project. This app uses MapKit, Core Location, and the Four Square API to gather information such as an address, and reviews.
+Find coffee shops in your area. Pan around to different areas of the map and find coffee shops there too. This app uses MapKit, Core Location, and the Four Square API to gather information such as an address, and reviews.
+
+In progress - I am developing a reusable local Swift Package that encapsulates the core logic for querying points of interest using Apple’s MapKit framework. Originally designed to search for coffee shops, I am refactoring the code into a flexible, generic querying library that supports searching for any location-based categories or keywords.
+
 <p float="left">
   <img src="https://github.com/user-attachments/assets/1e5976f2-47fb-434a-8e7e-fc32b9c44009" width="295" height="640"/>
 </p>
