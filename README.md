@@ -14,8 +14,6 @@ Built using SwiftUI and MVVM, this is a bicycle maintenance tracker where you ca
 
 Find coffee shops in your area. Pan around to different areas of the map and find coffee shops there too. This app uses MapKit, Core Location, and the Four Square API to gather information such as an address, and reviews.
 
-<a href="url">https://github.com/adyrda2/POISearcher/tree/main</a>
-
 <p float="left">
   <img src="https://github.com/user-attachments/assets/1e5976f2-47fb-434a-8e7e-fc32b9c44009" width="295" height="640"/>
 </p>
