@@ -23,6 +23,6 @@ Find coffee shops in your area. Pan around to different areas of the map and fin
 ### Tech News
 Leveraging the News API, this app displays the top headlines in tech. This app was built using the MVVM architecture, uses async/await, image caching with URLCache, and I focused on a simple design that works with both light and dark mode.
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/1b698328-7f90-4587-ad8a-381194bafdd2" width="301.5" height="656"/>
-  <img src="https://github.com/user-attachments/assets/d95a5159-fdd9-4a22-aa69-8134c4d1c796" width="301.5" height="656"/>
+![Image 1](https://github.com/user-attachments/assets/1b698328-7f90-4587-ad8a-381194bafdd2)
+![Image 2](https://github.com/user-attachments/assets/d95a5159-fdd9-4a22-aa69-8134c4d1c796)
 </p>
