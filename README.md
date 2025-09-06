@@ -4,12 +4,12 @@
 
 ### BikeTrackr
 Built using SwiftUI and MVVM, this is a bicycle maintenance tracker where you can log repairs, new parts, and other maintenance that was done on your bike. The app utilizes SwiftData for data storage. Async/Await is also utilized to avoid blocking the main thread on more expensive operations such as fetching, removing, and saving data. Invoice scanning to create service records and Strava integration to follow!
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/daea251e-575e-4524-9289-6bb8bca452cd" width="295" height="640"/>
-  <img src="https://github.com/user-attachments/assets/cccfc51a-8713-46d8-be1f-2faea3b7a9b3" width="295" height="640"/>
-  <img src="https://github.com/user-attachments/assets/5cd024b5-da00-4e8c-a26b-c892bb450642" width="295" height="640"/>
+
+  <img src="" width="295" height="640"/>
+  <img src="https://github.com/user-attachments/assets/8d52dcf5-4251-4019-9cb9-0721c57233de" width="295" height="640"/>
+  <img src="https://github.com/user-attachments/assets/aaec28ab-5e11-4e2f-b6f7-64af54ae0a27" width="295" height="640"/>
   <img src="https://github.com/user-attachments/assets/ef7a10a1-775d-44e4-a971-4a45321ecfba" width="295" height="640"/>
-  <img src="https://github.com/user-attachments/assets/840dbe2e-3114-4b52-bae3-21e30ff3878d" width="295" height="640"/>
+  <img src="https://github.com/user-attachments/assets/dbfd9343-32a2-4f96-bf22-fdf863b9b5f2" width="295" height="640"/>
 </p>
 
 ### Local Grounds
