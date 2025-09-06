@@ -8,6 +8,7 @@ Built using SwiftUI and MVVM, this is a bicycle maintenance tracker where you ca
   <img src="https://github.com/user-attachments/assets/8d52dcf5-4251-4019-9cb9-0721c57233de" width="295" height="640"/>
   <img src="https://github.com/user-attachments/assets/aaec28ab-5e11-4e2f-b6f7-64af54ae0a27" width="295" height="640"/>
   <img src="https://github.com/user-attachments/assets/ef7a10a1-775d-44e4-a971-4a45321ecfba" width="295" height="640"/>
+  <img src="https://github.com/user-attachments/assets/65b8a5a4-fea8-439e-837b-ec3d197eeb04" width="295" height="640"/>
   <img src="https://github.com/user-attachments/assets/dbfd9343-32a2-4f96-bf22-fdf863b9b5f2" width="295" height="640"/>
 </p>
 
